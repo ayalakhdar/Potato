@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+*{
+    text-align: center;
+}
+img{
+    width:400px;
+    height: 300px;
+    border: 10px solid grey;
+    object-fit: cover;
+
+}
+h1{
+    color: aliceblue;
+    font-size: 50px;
+    margin: 0px;
+}
+p{
+    color: darkseagreen;
+    font-size: 35px;
+    font-family: 'Arya', sans-serif;
+    margin: 0px;
+}
+div{
+    margin: 20px;
+}
